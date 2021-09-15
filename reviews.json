@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Elise Gardner",
+    "headshot": "images/face1.jpeg",
+    "stars" : 5,
+    "location": "Las Vegas, Nevada",
+    "body": "alaudantium enim quasi est quidem magnam voluptate ipsam eos tempora quo necessitatibus dolor quam autem quasi reiciendis et nam sapiente accusantium"
+  },
+  {
+    "id": 2,
+    "name": "Janye Kuhic",
+    "headshot": "images/face2.jpeg",
+    "stars" : 4.5,
+    "location": "Amsterdam, Netherlands",
+    "body": "est natus enim nihil est dolore omnis voluptatem numquam et omnis occaecati quod ullam at voluptatem error expedita pariatur nihil sint nostrum voluptatem reiciendis et"
+  },
+  {
+    "id": 3,
+    "name": "Nikitar Smone",
+    "headshot": "images/face3.jpeg",
+    "stars" : 3,
+    "location": "Syndey, Australia",
+    "body": "quia molestiae reprehenderit quasi aspernatur aut expedita occaecati aliquam eveniet laudantium omnis quibusdam delectus saepe quia accusamus maiores nam est cum et ducimus et vero voluptates excepturi deleniti ratione"
+  },
+  {
+    "id": 4,
+    "name": "Lew Davis",
+    "headshot": "images/face4.jpeg",
+    "stars" : 2.5,
+    "location": "Chicago, Illinois",
+    "body": "non et atque occaecati deserunt quas accusantium unde odit nobis qui voluptatem quia voluptas consequuntur itaque dolor et qui rerum deleniti ut occaecati"
+  },
+  {
+    "id": 5,
+    "name": "Hayden Wright",
+    "headshot": "images/face5.jpeg",
+    "stars" : 5,
+    "location": "London, England",
+    "body": "harum non quasi et ratione tempore iure ex voluptates in ratione harum architecto fugit inventore cupiditate voluptates magni quo et"
+  },
+  {
+    "id": 6,
+    "name": "Presley Mueller",
+    "headshot": "images/face6.jpeg",
+    "stars" : 5,
+    "location": "Munich, Germany",
+    "body": "doloribus at sed quis culpa deserunt consectetur qui praesentium accusamus fugiat dicta voluptatem rerum ut voluptate autem voluptatem repellendus aspernatur dolorem in"
+  }
+]
