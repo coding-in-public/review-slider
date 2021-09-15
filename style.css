@@ -81,7 +81,7 @@ body {
   max-width: 750px;
   width: calc(100vw - 4rem);
   padding: .5rem 0;
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 
 .arrow {
